@@ -1,0 +1,4 @@
+src.hqservice包为使用者编写程序的包
+请先配置playervarmodel.properties文件，然后运行src.hqlaunch.HQEntityBuilder生成entity对象
+设置mysql的连接最大值，在my.ini中，默认是100
+playerid设置索引

@@ -1,0 +1,10 @@
+package others;
+
+message CSUserLogin{
+	required int32 id=1;
+	required string name=2;
+	required string pass=3;
+}
+message SCUserLoginRet{
+	required int32 result=1;
+}
